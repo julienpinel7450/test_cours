@@ -13,6 +13,11 @@ def f4(x):
 def f5(x):
     return x+5 
 
+def root(x):
+    return x**0.5
+
+
+
 
 def square(x):
     return x*x
