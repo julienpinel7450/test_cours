@@ -12,3 +12,8 @@ def f4(x):
 
 def f5(x):
     return x+5 
+
+
+def square(x):
+    return x**2
+    
